@@ -1,4 +1,0 @@
-%\VignetteIndexEntry{Generalized Direct Sampling using the bayesGDS package}
-\documentclass{article}
-\begin{document}
-\end{document}
